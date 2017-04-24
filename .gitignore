@@ -46,3 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Rebalancing2.ipynb.txt
+
+# Pickled files, which will be over 100 MB
+*.pkl
